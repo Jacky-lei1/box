@@ -61,7 +61,7 @@
 "name":"🍭线路5(优质)"
 },
 {
-"url":"https://cdn.jsdelivr.net/gh/Jacky-lei1/box@main/fl.txt",
+"url":"https://cdn.jsdelivr.net/gh/Jacky-lei1/box@main/nice.txt",
 "name":"🍭福利"
 },
 {
