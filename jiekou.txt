@@ -60,5 +60,13 @@
 "url":"http://home.jundie.top:81/TVBox/yosakoi.json",
 "name":"🍭线路5(优质)"
 }
+{
+"url":"https://cdn.jsdelivr.net/gh/Jacky-lei1/box@main/fuli.txt",
+"name":"🍭福利"
+},
+{
+"url":"https://cdn.jsdelivr.net/gh/Jacky-lei1/box@main/fuli_zb.txt",
+"name":"🍭福利(直播)"
+}
 ]
 }
