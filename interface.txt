@@ -61,6 +61,14 @@
 "name":"🍭线路5(优质)"
 },
 {
+"url":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Text/ptest.json",
+"name":"🍭线路6"
+},
+{
+"url":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Text/dtes.json",
+"name":"🍭线路7"
+},
+{
 "url":"https://cdn.jsdelivr.net/gh/Jacky-lei1/box@main/nice.txt",
 "name":"🍭福利"
 },
